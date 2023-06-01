@@ -62,7 +62,8 @@ Root - IT FDN 110 A - 2023
 ## Demo
 Now let’s combine the two to create a layer of code that asks for the user to save some input, however, only as a Binary or .dat file!
 
-https://github.com/EllisWebb/UWITFDN-110-A07/blob/111732e405b0038edab1eb6229370b60dd485c21/Screen%20Shot%202023-06-01%20at%209.43.55%20AM.png
+![Pickled Errors Demo](web address "Pickled Errors Demo")![image](https://github.com/EllisWebb/UWITFDN-110-A07/blob/111732e405b0038edab1eb6229370b60dd485c21/Screen%20Shot%202023-06-01%20at%209.43.55%20AM.png)
+
 
 The above depicts the use of a Try-Except Block used to “catch” file naming errors (Software Exception) 
 ## Conclusion 
