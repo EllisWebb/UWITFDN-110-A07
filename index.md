@@ -62,6 +62,8 @@ Root - IT FDN 110 A - 2023
 ## Demo
 Now let’s combine the two to create a layer of code that asks for the user to save some input, however, only as a Binary or .dat file!
 
+https://github.com/EllisWebb/UWITFDN-110-A07/blob/111732e405b0038edab1eb6229370b60dd485c21/Screen%20Shot%202023-06-01%20at%209.43.55%20AM.png
+
 The above depicts the use of a Try-Except Block used to “catch” file naming errors (Software Exception) 
 ## Conclusion 
 In conclusion, Python provides a wide range of user interface and user direction tools whether it be from Python’s base code or from a simple import from the base library. With these tools the programmer can make future use of the software more streamline and even prevent crashes by limiting how the user can interact (save files) with the code. Furthermore, we can also make the users experience better using custom errors that can allow for greater flexibility and digestibly or error messages and code breaking.
